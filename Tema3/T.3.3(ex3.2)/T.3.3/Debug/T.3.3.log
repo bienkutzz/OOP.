@@ -1,0 +1,4 @@
+﻿  T.3.3.cpp
+E:\Users\Karina\KCode\GitHub\OOP_Lab_Homework\T.3.3\T.3.3\T.3.3.cpp(88,45): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Users\Karina\KCode\GitHub\OOP_Lab_Homework\T.3.3\T.3.3\T.3.3.cpp(99,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  T.3.3.vcxproj -> E:\Users\Karina\KCode\GitHub\OOP_Lab_Homework\T.3.3\Debug\T.3.3.exe
